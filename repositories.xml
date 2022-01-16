@@ -1,0 +1,12 @@
+<repositories encoding="unicode" version="1.1">
+  <repo priority="50" quality="experimental">
+    <name>compute</name>
+    <description>Ebuilds for development</description>
+    <homepage>https://github.com/justxi/dev</homepage>
+    <owner>
+      <email>gentoo@holzke.net</email>
+      <name>justXi</name>
+    </owner>
+    <source type="git">https://github.com/justxi/dev.git</source>
+  </repo>
+</repositories>
